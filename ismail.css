@@ -1,0 +1,40 @@
+body
+{
+
+    background-image: url("../ismail/Money_Cash.jpg");
+    background-size: cover;
+    
+    
+}
+
+.title
+{
+margin-left: 700px;
+margin-right: 700px;
+padding: 5px;
+color:rgb(255, 255, 255) ;
+background-color: rgba(0, 0, 0, 0.737);
+font-style: oblique;
+background-size: cover;
+
+
+}
+
+img 
+{
+    float: left;
+    margin-top: 80px;
+    margin-right: 10px;
+}
+
+.text
+{
+    margin-top:80px;
+    margin-right : 1125px;
+    font-style: oblique;
+    font-size: 25.50px;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0.772);
+    
+}
